@@ -1,0 +1,14 @@
+.chat-item {
+  display: flex;
+  flex-direction: column;
+  margin: 16px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,13 @@
+.errorMessage
+{
+    color: red;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.loginForm
+{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 200px;
+}
